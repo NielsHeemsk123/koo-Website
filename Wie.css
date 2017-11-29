@@ -1,0 +1,97 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightgrey;
+    margin-top: -30px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 0px;
+    margin-left: 150px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: lightslategrey;
+}
+.Lorem {
+    background-color: lightgrey;
+    text-align: center;
+    width: 30%; 
+    float: left;
+    border-radius: 10%;
+    padding: 30px;
+    padding-left: 10%;
+    margin-left: 100px;
+}
+.Lorem2 {
+    background-color: lightgrey;
+    text-align: center;
+    width: 30%; 
+    border-radius: 10%;
+    padding: 30px;
+    padding-left: 10%;
+    margin-left: 
+}
+.Lorem3 {
+    background-color: lightgrey;
+    text-align: center;
+    float: left;
+    width: 30%; 
+    border-radius: 10%;
+    padding: 30px;
+    padding-left: 10%;
+    margin-left: 100px;
+}
+.Lorem4 {
+    background-color: lightgrey;
+    text-align: center;
+    float: left;
+    width: 30%; 
+    border-radius: 10%;
+    padding: 30px;
+    padding-left: 10%;
+    margin-left: 100px;
+}
+.top {
+    background-color: greenyellow;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    margin-top: -8px;
+    padding-top: 40px;
+    font-family: fantasy;
+    color: saddlebrown;
+    font-size: 30px
+}
+body {
+    background-image: url(Nature.jpg);
+}
+.person1 {
+    margin-left: -41%;
+    margin-top: 10%;
+    border-radius: 10%;
+}
+.person2 {
+    margin-left: -41%;
+    margin-top: 10%;
+    border-radius: 10%;
+}
+.person3 {
+    margin-left: -41%;
+    margin-top: 10%;
+    border-radius: 10%;
+}
+.person4 {
+    margin-left: -41%;
+    margin-top: 10%;
+    border-radius: 10%;
+}
